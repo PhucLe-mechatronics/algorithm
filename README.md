@@ -18,6 +18,7 @@ Practice algorithms on LeetCode
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0622-design-circular-queue](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0622-design-circular-queue/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -27,4 +28,8 @@ Practice algorithms on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0622-design-circular-queue/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
