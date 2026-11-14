@@ -19,6 +19,7 @@ Practice algorithms on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0086-partition-list](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0086-partition-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0622-design-circular-queue/) | Medium |
@@ -38,4 +39,5 @@ Practice algorithms on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0086-partition-list](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0086-partition-list/) | Medium |
 <!---LeetCode Topics End-->
