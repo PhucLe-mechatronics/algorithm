@@ -15,6 +15,7 @@ Practice algorithms on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0622-design-circular-queue](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0622-design-circular-queue/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -52,6 +53,7 @@ Practice algorithms on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting Sort
