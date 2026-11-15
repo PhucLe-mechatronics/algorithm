@@ -16,6 +16,7 @@ Practice algorithms on LeetCode
 | ------- | ------- |
 | [0561-array-partition](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0622-design-circular-queue](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0622-design-circular-queue/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Practice algorithms on LeetCode
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0086-partition-list](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0086-partition-list/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +51,7 @@ Practice algorithms on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0561-array-partition/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
