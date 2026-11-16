@@ -14,6 +14,7 @@ Practice algorithms on LeetCode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0414-third-maximum-number/) | Easy |
@@ -44,6 +45,7 @@ Practice algorithms on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0075-sort-colors](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0086-partition-list/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
@@ -53,6 +55,7 @@ Practice algorithms on LeetCode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0414-third-maximum-number/) | Easy |
@@ -79,4 +82,12 @@ Practice algorithms on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
