@@ -77,10 +77,12 @@ Practice algorithms on LeetCode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -94,4 +96,8 @@ Practice algorithms on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0075-sort-colors/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
