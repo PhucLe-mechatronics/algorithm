@@ -22,6 +22,7 @@ Practice algorithms on LeetCode
 | [0414-third-maximum-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0622-design-circular-queue](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0622-design-circular-queue/) | Medium |
+| [0704-binary-search](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ Practice algorithms on LeetCode
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
