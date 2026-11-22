@@ -25,6 +25,7 @@ Practice algorithms on LeetCode
 | [0704-binary-search](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PhucLe-mechatronics/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Practice algorithms on LeetCode
 | [0075-sort-colors](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0086-partition-list/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PhucLe-mechatronics/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +69,7 @@ Practice algorithms on LeetCode
 | [0414-third-maximum-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PhucLe-mechatronics/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +79,7 @@ Practice algorithms on LeetCode
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PhucLe-mechatronics/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +92,7 @@ Practice algorithms on LeetCode
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PhucLe-mechatronics/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
