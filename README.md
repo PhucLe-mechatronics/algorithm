@@ -16,6 +16,7 @@ Practice algorithms on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
@@ -63,6 +64,7 @@ Practice algorithms on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
@@ -73,10 +75,12 @@ Practice algorithms on LeetCode
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0169-majority-element/) | Easy |
 | [0561-array-partition](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0561-array-partition/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PhucLe-mechatronics/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -109,4 +113,12 @@ Practice algorithms on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0069-sqrtx/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
