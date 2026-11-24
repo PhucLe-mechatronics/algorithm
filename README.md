@@ -15,6 +15,7 @@ Practice algorithms on LeetCode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0179-largest-number/) | Medium |
@@ -93,6 +94,7 @@ Practice algorithms on LeetCode
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
