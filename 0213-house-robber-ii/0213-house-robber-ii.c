@@ -37,13 +37,5 @@ int rob(int* nums, int numsSize) {
     {
         array2[i-1]=findmax(array2[i-2],array2[i-3]+nums[i]);
     }
-    if(array1[numsSize-2]<array2[numsSize-2])
-    {
-        return array2[numsSize-2];
-    }
-    else
-    {
-        return array1[numsSize-2];
-    }
-
+    return findmax(array1[numsSize-2],array2[numsSize-2]);
 }
