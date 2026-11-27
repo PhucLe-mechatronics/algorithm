@@ -21,6 +21,7 @@ Practice algorithms on LeetCode
 | [0169-majority-element](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0414-third-maximum-number/) | Easy |
@@ -139,4 +140,5 @@ Practice algorithms on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0213-house-robber-ii/) | Medium |
 <!---LeetCode Topics End-->
