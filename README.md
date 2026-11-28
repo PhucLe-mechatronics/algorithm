@@ -15,6 +15,7 @@ Practice algorithms on LeetCode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -85,6 +86,7 @@ Practice algorithms on LeetCode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/PhucLe-mechatronics/algorithm/tree/main/0268-missing-number/) | Easy |
